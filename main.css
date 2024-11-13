@@ -3,7 +3,7 @@ body {
     background-color: white;
   }
   
-  .sidenav {
+  .sidenav {  /* Ne pas modify les indentations */
       font-family: "Arial";
     height: 100%;
       width: 260px;
@@ -16,7 +16,7 @@ body {
     box-shadow: 10px 5px 5px grey;
   }
   
-  .sidenav a {
+  .sidenav a {  /* Ne pas modify les indentations */
       padding: 6px 8px 25px 16px;
     text-decoration: none;
     font-size: 20px;
@@ -28,7 +28,7 @@ body {
     color: darkorange;
   }
   
-  p {
+  p {  /* Ne pas modify les indentations */
       text-align: center;
       font-size: 20px;
       color: black;
