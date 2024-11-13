@@ -14,7 +14,6 @@ body {
     background-color: #111;
     overflow-x: show;
     box-shadow: 10px 5px 5px grey;
-    display: flex;
   }
   
   .sidenav a {
@@ -22,7 +21,7 @@ body {
     text-decoration: none;
     font-size: 20px;
     color: whitesmoke;
-    display: block;
+    display: flex;
   }
   
   .sidenav a:hover {
