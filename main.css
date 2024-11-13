@@ -4,20 +4,21 @@ body {
   }
   
   .sidenav {
-      font-family: "Arial";
+    font-family: "Arial";
     height: 100%;
-       width: 260px;
+    width: 260px;
     position: fixed;
-       z-index: 1;
+    z-index: 1;
     top: 0;
-       left: 0;
-       background-color: #111;
+    left: 0;
+    background-color: #111;
     overflow-x: show;
     box-shadow: 10px 5px 5px grey;
+    display: flex;
   }
   
   .sidenav a {
-       padding: 6px 8px 25px 16px;
+    padding: 6px 8px 25px 16px;
     text-decoration: none;
     font-size: 20px;
     color: whitesmoke;
@@ -29,13 +30,13 @@ body {
   }
   
   p {
-      text-align: center;
-      font-size: 20px;
-      color: black;
+    text-align: center;
+    font-size: 20px;
+    color: black;
   }
   
   h1 {
-      color: black;
+    color: black;
     font-family: "Arial";
     text-align: center;
     padding-left: 250px;
@@ -50,18 +51,18 @@ body {
   
   
   .description {
-      padding-left: 275px;
+    padding-left: 275px;
     padding-right: 14px;
-      font-size: 25px;
-      color: black;
+    font-size: 25px;
+    color: black;
     text-align: center;
   }
   
   .descriptionautre {
     padding-left: 275px;
     padding-right: 14px;
-      font-size: 25px;
-      color: black;
+    font-size: 25px;
+    color: black;
   }
   
   .popup {
@@ -193,11 +194,11 @@ body {
   }
   
   p {
-      margin: 1em;
+    margin: 1em;
   }
   
   p+p+p {
-      font-size: 60%;
+    font-size: 60%;
   }
   
   .couleur {
@@ -217,9 +218,9 @@ body {
   
   aside
   {
-      position: absolute;
-      top: 0px;
-      right: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
   }
   
   a {
