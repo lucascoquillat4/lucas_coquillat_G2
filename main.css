@@ -19,7 +19,7 @@ body {
   .sidenav a {  /* Ne pas modify les indentations */
       padding: 6px 8px 25px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color: whitesmoke;
     display: block;
   }
