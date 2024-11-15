@@ -1,0 +1,34 @@
+section {
+    border: 2px solid black;
+    display:  flex;
+    justify-content: center;
+    height: 200px;
+    padding: 5rem;
+}
+
+div {
+    background-color: grey;
+    width: 50%;
+    height: 50%;
+}
+
+/* Petits appareils (smartphones) */
+@media (max-width: 576px) {
+  }
+  
+  /* Moyens appareils (tablettes portrait) */
+  @media (min-width: 577px) and (max-width: 768px) {
+  }
+  
+  /* Tablettes en mode paysage ou petits laptops */
+  @media (min-width: 769px) and (max-width: 992px) {
+  }
+  
+  /* Laptops et desktops */
+  @media (min-width: 993px) and (max-width: 1200px) {
+  }
+  
+  /* Grands écrans */
+  @media (min-width: 1201px) {
+  }
+  
